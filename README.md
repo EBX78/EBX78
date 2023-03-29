@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdullah Amiri
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data
 - 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on Data
+- 💞️ I'm looking to collaborate on Data Analysis
 <!-- - 📫 How to reach me  -->
 
 <!---
