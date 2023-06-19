@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdullah Amiri
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in ML, DL, DS
 - 🌱 I’m currently learning Data science
 - 💞️ I'm looking to collaborate on Data Analysis
 <!-- - 📫 How to reach me  -->
