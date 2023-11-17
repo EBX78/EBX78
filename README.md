@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdullah Amiri
-- 👀 I’m interested in ML, DL, DS
-- 🌱 I’m currently learning Data science
-- 💞️ I'm looking to collaborate on Machine learning
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning CV
+- 💞️ I'm looking to collaborate on Problem Solving, Optimization, Invention and ideation
 <!-- - 📫 How to reach me  -->
 
 <!---
