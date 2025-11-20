@@ -1,8 +1,8 @@
 v
 - 👋 Hi, I’m Abdullah Amiri
-- 👀 I’m interested in self-knowledge
-- 🌱 I’m currently learning Self-love
-- 💞️ I'm looking to learn, listen and observe
+- 👀 I’m interested in ---
+- 🌱 I’m currently learning ---
+- 💞️ I'm looking to ---
 <!-- - 📫 How to reach me  -->
 
 <!---
